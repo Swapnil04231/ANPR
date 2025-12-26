@@ -1,2 +1,2 @@
 # ANPR
-Automatic NO Plain Recognition
+Automatic NO Plate Recognition.
